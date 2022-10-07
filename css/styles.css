@@ -11,7 +11,7 @@ body {
 #hero-txt {
     font-family: "Montserrat", sans-serif;
     /* font-family: 'Ubuntu', sans-serif; */
-    font-size: 3rem;
+    font-size: 3.5rem;
     line-height: 1.5;
     font-weight: 900;
 }
@@ -24,7 +24,7 @@ body {
 .navbar-brand{
     font-family: "Ubuntu";
     font-size: 2.5rem !important;
-    font-weight: bold !important;
+    font-weight: 600 !important;
 }
 
 .nav-item {
@@ -37,3 +37,20 @@ body {
     font-weight: 500;
 }
 
+/* Download Buttons */
+.download-btn {
+    margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+.hero-img {
+    width: 60%;
+    transform: rotate(25deg);
+    margin-bottom: 4rem;
+}
+
+/* Feature Box Section */
+
+.feature-box{
+
+}
