@@ -49,8 +49,22 @@ body {
     margin-bottom: 4rem;
 }
 
+/* Features Section */
+#features {
+    padding: 7% 15%;
+}
+
 /* Feature Box Section */
 
 .feature-box{
+    
+}
 
+.feature-box h3 {
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.feature-box p {
+    
 }
