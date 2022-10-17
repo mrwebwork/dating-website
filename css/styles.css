@@ -2,7 +2,12 @@ body {
     font-family: "Montserrat", sans-serif !important; 
 }
 
-
+#testimonials h2 {
+    font-family: "Montserrat", sans-serif !important;
+    font-weight: 600;
+    font-size: 2.5rem;
+    line-height: 1.5; 
+}
 
 #title {
     background-color: #ff4c68;
@@ -50,8 +55,9 @@ body {
 }
 
 /* Features Section */
-#features {
+#features i{
     /* padding: 7% 15%; */
+    color: #F88379	
 }
 
 /* Feature Box Section */
@@ -67,4 +73,21 @@ body {
 
 .feature-box p {
 
+}
+
+/* Testimonal Section */
+#testimonials {
+    background-color: #ef8172;
+}
+
+/* Reivew Image */
+
+#review-img {
+    width: 175px;
+}
+
+/* Logos Section */
+
+#logo {
+    background-color: #ef8172;
 }
