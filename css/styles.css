@@ -51,7 +51,7 @@ body {
 
 /* Features Section */
 #features {
-    padding: 7% 15%;
+    /* padding: 7% 15%; */
 }
 
 /* Feature Box Section */
@@ -66,5 +66,5 @@ body {
 }
 
 .feature-box p {
-    
+
 }
